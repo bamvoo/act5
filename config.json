@@ -1,0 +1,16 @@
+{
+  "dbconf_dev":{
+    "driver":"mysql",
+    "dbhost":"localhost",
+    "dbuser":"admin",
+    "dbpass":"1234",
+    "dbname":"bbdd_m7"
+  },
+  "dbconf_pro":{
+    "driver":"mysql",
+    "dbhost":"192.168.56.1",
+    "dbuser":"userdaw1",
+    "dbpass":"M3phpdaw",
+    "dbname":"bbdd_m7"
+  }
+}
